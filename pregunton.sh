@@ -7,7 +7,7 @@
 # 2. A la ultima fecha, cual es el total de fallecimientos
 
 #El primer paso registrar el pais de interes
-pais_de_interes="United States"
+pais_de_interes="Mexico"
 
 #Enviar mensaje de inicio
 echo "[DEBUG] Analizando datos para $pais_de_interes"
